@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-white?style=for-the-badge&logo=adidas&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=adidas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST API-white?style=for-the-badge&logo=adidas&logoColor=black"/>
 </p>
 
 <h3 align="center">🕸️ Сети 🕸️</h3>
@@ -35,14 +36,16 @@
   <img src="https://img.shields.io/badge/HTTP--HTTPS-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSI-white?style=for-the-badge&logo=adidas&logoColor=black"/>
   <img src="https://img.shields.io/badge/DHCP-black?style=for-the-badge&logo=adidas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-white?style=for-the-badge&logo=adidas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VLAN-white?style=for-the-badge&logo=adidas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=adidas&logoColor=white"/>
 </p>
 
 <h3 align="center">🦾 Автоматизация и инфраструктура 🦾</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-black?style=for-the-badge&logo=adidas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=adidas&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=adidas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-white?style=for-the-badge&logo=adidas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=adidas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=adidas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-white?style=for-the-badge&logo=adidas&logoColor=black"/>
   <img src="https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPS--VDS-white?style=for-the-badge&logo=adidas&logoColor=black"/>
