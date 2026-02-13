@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-white?style=for-the-badge&logo=adidas&logoColor=black"/>
   <img src="https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=adidas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPS--VDS-white?style=for-the-badge&logo=adidas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VPS/VDS-white?style=for-the-badge&logo=adidas&logoColor=black"/>
 </p>
 
 ##
