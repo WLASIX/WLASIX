@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/TCP/IP-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/DNS-white?style=for-the-badge&logo=adidas&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTTP--HTTPS-black?style=for-the-badge&logo=adidas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTP/HTTPS-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/OSI-white?style=for-the-badge&logo=adidas&logoColor=black"/>
   <img src="https://img.shields.io/badge/DHCP-black?style=for-the-badge&logo=adidas&logoColor=white"/>
   <img src="https://img.shields.io/badge/VLAN-white?style=for-the-badge&logo=adidas&logoColor=black"/>
